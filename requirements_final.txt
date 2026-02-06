@@ -1,0 +1,12 @@
+
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-core>=0.1.0
+langchain-huggingface>=0.0.1
+huggingface-hub>=0.19.0
+
+sqlalchemy>=2.0.0
+
+python-dotenv>=1.0.0
+
+
